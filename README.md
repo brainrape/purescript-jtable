@@ -39,7 +39,7 @@ Into this:
 |----------|-----------|-----|----------|------------------------------------------------------------|
 ```
 
-[Try it!](http://rawgit.com/slamdata/purescript-jtable/master/examples/try.html) with your own data or some samples.
+[Try it!](http://rawgit.com/brainrape/purescript-jtable/master/examples/try.html) with your own data or some samples.
 
 
 ## How?
