@@ -61,7 +61,7 @@ renderJTable jTableOptsDefault {
   columnOrdering = alphaOrdering } json
 
 ```
-See the [Try it!](http://rawgit.com/slamdata/purescript-jtable/master/examples/try.html) page and [examples/Examples.purs](examples/Examples.purs) for more usage examples.
+See the [Try it!](http://rawgit.com/brainrape/purescript-jtable/master/examples/try.html) page and [examples/Examples.purs](examples/Examples.purs) for more usage examples.
 
 
 ### API
